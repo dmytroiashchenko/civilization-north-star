@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "A North Star for Civilization"
+message: "If you use or reference this work, please cite it."
+type: software
+authors:
+  - family-names: Iashchenko
+    given-names: Dmytro
+version: 0.1
+license: "CC-BY-4.0"
+date-released: 2026-02-14
+repository-code: "https://github.com/dmytroiashchenko/civilization-north-star"
+abstract: >
+  A minimal, canonical anchor proposing a shared long-term direction under two
+  universal constraints: time (aging) and space (single-home risk). The North Star:
+  maximize usable time and expand accessible space.
+keywords:
+  - civilization
+  - strategy
+  - north star
+  - aging
+  - longevity
+  - existential risk
+  - space
+  - longtermism
