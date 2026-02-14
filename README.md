@@ -1,4 +1,6 @@
 # A North Star for Civilization
+[![DOI](https://zenodo.org/badge/1156665945.svg)](https://doi.org/10.5281/zenodo.18640886)
+
 *A shared long-term direction: maximize usable time, expand accessible space.*  
 Version: 0.1 · by Dmytro Iashchenko · Free to copy/share/adapt (including commercial use) - mention the original author and link to this repository (license: CC BY 4.0)
 
@@ -19,6 +21,10 @@ Civilization is bound to a single finite “container” - Earth / the Solar Sys
 ### 3) The North Star (a simple direction)
 1. **Maximize usable time** - reduce biological and cognitive degradation; extend healthy, functional life.  
 2. **Expand accessible space** - reduce dependence on a single planet by distributing civilizational risk and expanding access to resources beyond a single “container”.
+
+## DOI
+Concept DOI: https://doi.org/10.5281/zenodo.18640886  
+Version DOI (v0.1): https://doi.org/10.5281/zenodo.18640887
 
 ## Attribution
 “A North Star for Civilization” - by Dmytro Iashchenko. Source: https://github.com/dmytroiashchenko/civilization-north-star · License: CC BY 4.0.  
